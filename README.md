@@ -148,17 +148,24 @@ I am an Information Technology undergraduate at **Satya Wacana Christian Univers
 
 ---
 
-## 🏆 Badges & Code Platforms
+## 🏆 Certifications & Security Platforms
 
 <div align="center">
+  
+  **Academic & Certifications**<br>
+  <a href="#"><img src="https://img.shields.io/badge/UKSW-Academic_Excellence-4B0082?style=for-the-badge&logo=academia" alt="Academic"></a>
+  <a href="#"><img src="https://img.shields.io/badge/UKSW-Intelligent_Systems-7B68EE?style=for-the-badge&logo=cpu" alt="Intelligent"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PortSwigger-SQL_Injection-8A2BE2?style=for-the-badge&logo=portswigger&logoColor=white" alt="SQL"></a>
+  
+  <br><br>
 
-| Academic & Certifications | Security Platforms & CTF |
-| :---: | :---: |
-| [![Academic Project Excellence](https://img.shields.io/badge/UKSW-Academic_Excellence-4B0082?style=flat-square&logo=academia)](#) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-990000?style=flat-square&logo=tryhackme&logoColor=white)](#) |
-| [![Intelligent Systems Track](https://img.shields.io/badge/UKSW-Intelligent_Systems-7B68EE?style=flat-square&logo=cpu)](#) | [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-111925?style=flat-square&logo=hackthebox&logoColor=9FEF00)](#) |
-| [![SQL Injection Practitioner](https://img.shields.io/badge/PortSwigger-SQL_Injection-8A2BE2?style=flat-square&logo=portswigger&logoColor=white)](#) | [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](#) |
+  **Hack & Code Profiles**<br>
+  <a href="#"><img src="https://img.shields.io/badge/TryHackMe-Profile-990000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM"></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackTheBox-Profile-111925?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HTB"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
 </div>
+
 
 ---
 

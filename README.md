@@ -1,39 +1,45 @@
 <div align="center">
-<img src="https://capsule-render.herokuapp.com/main?type=wave&color=3a0066&height=250&section=header&text=Marchell%20Adi%20Pratama&fontSize=50&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.herokuapp.com/main?type=waving&color=gradient&customColorList=12,8A2BE2,4B0082,3a0066&height=250&section=header&text=Marchell%20Adi%20Pratama&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+  
+  <br />
+  
+  <a href="https://github.com/marchellprogit">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+NLP+Engineer;Secure+Software+Architect;Full-Stack+AI+Developer;Cyber+Security+Researcher" alt="Typing Animation" />
+  </a>
+  
+  <br />
 
-<br />
+  <p align="center">
+    <a href="https://uksw.edu"><img src="https://img.shields.io/badge/Academic-Satya_Wacana_Christian_University-4B0082?style=for-the-badge&logo=academia&logoColor=white" alt="University" /></a>
+    <a href="https://maps.google.com"><img src="https://img.shields.io/badge/Location-Central_Java%2C_Indonesia-7B68EE?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+  </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%2F+NLP+Engineer;Secure+Software+Architect;Cyber+Security+Researcher" alt="Typing Animation" />
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Portfolio-Digital_Presence-5865F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/marchell-adi-pratama-407523247"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/marchellprogit"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
 
-<br />
+  <br />
 
-[![University](https://img.shields.io/badge/Academic-Satya_Wacana_Christian_University-4B0082?style=flat-square&logo=academia&logoColor=white)](https://uksw.edu)
-[![Location](https://img.shields.io/badge/Location-Central_Java%2C_Indonesia-7B68EE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Digital_Presence-5865F2?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-<br />
-
-![](https://komarev.com/ghpvc/?username=marchelladi&color=7B68EE&style=flat-square&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/marchelladi?label=FOLLOWERS&style=flat-square&color=4B0082)
-![](https://img.shields.io/github/stars/marchelladi?label=STARS&style=flat-square&color=8A2BE2)
-
+  <a href="https://github.com/marchellprogit"><img src="https://komarev.com/ghpvc/?username=marchellprogit&color=7B68EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+  <a href="https://github.com/marchellprogit?tab=followers"><img src="https://img.shields.io/github/followers/marchellprogit?label=FOLLOWERS&style=flat-square&color=4B0082" alt="Followers" /></a>
+  <a href="https://github.com/marchellprogit"><img src="https://img.shields.io/github/stars/marchellprogit?label=STARS&style=flat-square&color=8A2BE2" alt="Stars" /></a>
 </div>
 
 ---
 
-## 2. About Section
+## 👨‍💻 Professional Biography
 
-### Professional Biography
-I am an Information Technology undergraduate specializing in the convergence of Data Science, Intelligent Systems, and Secure Software Engineering. Operating within highly tuned environments accelerated by dedicated GPU computing, my focus lies in applying Natural Language Processing (NLP), Deep Learning, and structural Knowledge Graphs to resolve algorithmic and architectural complexities. I balance data-driven optimization with hardened backend integration and security auditing parameters—ensuring production systems are intelligent, scalable, and resilient against modern vulnerability vectors.
+I am an Information Technology undergraduate at **Satya Wacana Christian University**, specializing in the intersection of **Data Science, Intelligent Systems, and Secure Software Architecture**. My expertise lies in designing end-to-end intelligent systems—from fine-tuning NLP models and building semantic Knowledge Graphs, to engineering robust, highly-secured full-stack web applications and Telegram commerce ecosystems.
 
-* **Data Science & AI/ML:** Specialization in tokenization pipelines, semantic relational modeling, text mining, and real-time computer vision (YOLOv8).
-* **Software Engineering:** Architecture-first approach utilizing robust asynchronous patterns, full-stack frameworks, and zero-trust granular backend designs.
-* **Cyber Security Integration:** Active analysis of cryptographic handshakes, secure protocol deployment, API boundary enforcement, and database protection paradigms.
-* **Product Engineering Mindset:** Translating formal domain guidelines and complex transactional logics into declarative enterprise-ready pipelines.
+I thrive in highly tuned environments, leveraging both modern cloud infrastructures and local GPU computing to deliver scalable, secure, and production-ready solutions resilient against modern vulnerability vectors.
+
+* 🧠 **AI & Data Science:** Specialization in NLP pipelines (IndoBERT NER, FAISS RAG), semantic relational modeling, text mining, and real-time computer vision (YOLOv8).
+* 💻 **Software Engineering:** Architecture-first approach utilizing Next.js 16, robust asynchronous Node.js/Express patterns, and zero-trust granular backend designs.
+* 🔐 **Cyber Security:** Active analysis of cryptographic handshakes, secure protocol deployment, API boundary enforcement, and PostgreSQL Row-Level Security (RLS) hardening.
+* 🚀 **Current Focus:** Enhancing the *Automated Regulatory Ripple-Effect Synthesizer* v2 and scaling the *Chell Store Commerce Ecosystem*.
 
 ### 🎯 Open To
 * Core AI/ML Research & NLP Engineering Positions
@@ -42,118 +48,93 @@ I am an Information Technology undergraduate specializing in the convergence of 
 
 ---
 
-## 3. Tech Stack Section
+## 🛠️ Technology Stack
 
-### Data Science & Analytics
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,supabase" alt="Data Science & Databases" />
-</p>
+<div align="center">
 
-### Frontend Engineering
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
-</p>
+**Data Science, AI & Analytics**<br>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,jupyter,r" alt="Data Science" /><br><br>
 
-### Backend & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,bash" alt="Backend & Scripting" />
-</p>
+**Frontend Engineering**<br>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,css" alt="Frontend" /><br><br>
 
-### DevOps, Security & Toolchain
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" alt="Systems & Tools" />
-</p>
+**Backend & Architecture**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,supabase,sqlite" alt="Backend" /><br><br>
+
+**DevOps, Security & Toolchain**<br>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,vscode" alt="Tools" />
+
+</div>
 
 ---
 
-## 4. AI/ML & Engineering Expertise Section
+## 🚀 Featured Engineering & AI Projects
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Natural Language Processing** | Advanced | Relational extraction pipelines, deep semantic syntax parsing, structural entities tokenization, and targeted Knowledge Graph schema mapping. |
-| **Computer Vision & Deep Learning** | Intermediate | Matrix optimization, dynamic target detection modeling utilizing YOLOv8 configurations, and local CUDA hardware acceleration scaling. |
-| **Secure Application Design** | Advanced | Strict multi-tenant row-level authorization isolation (PostgreSQL RLS), secure session management pipelines, and sanitization structures. |
-| **Wireless & Infrastructure Auditing** | Intermediate | Passive packet-capture harvesting (PMKID/Handshakes), defensive configurations validation, and shell orchestration scripts. |
-
----
-
-## 5. Featured Projects Section
-
-<details>
-<summary><b>🔥 Automated Regulatory Ripple-Effect Synthesizer</b></summary>
+<details open>
+<summary><b>⚖️ Automated Regulatory Ripple-Effect Synthesizer (RegTech)</b></summary>
 <br />
 
-### Project Description
-An enterprise-grade Regulatory Technology (RegTech) pipeline engineered to ingest unstructured legal text, run contextual NLP relation extraction, and compile dependent compliance pathways into a queryable semantic Knowledge Graph.
-
-| Dimension | Technical Metrics & Implementation |
-| :--- | :--- |
-| **Stack** | Python, Deep NLP Architectures, Graph Storage Engine, PostgreSQL |
-| **Scale** | Engineered to parse high-volume cross-referenced statutory frameworks and policy guidelines |
-| **Performance** | Multi-threaded graph querying ensuring sub-second inference mapping across nodes |
-| **Security** | Isolated API access endpoints backed by cryptographic token verification matrices |
-| **Impact** | Automates legal risk visibility by modeling immediate secondary impacts of policy updates |
-
-### Professional Project Explanation
-This architecture solves standard analytical manual bottleneck tracking within changing policy corpora. By passing multi-layered texts through specific linguistic tokenizers and neural parsing modules, the system dynamically generates a semantic topology map. This allows deep graph-traversal queries to trace exact institutional exposure boundaries, mapping dependencies to structural databases safely.
+An enterprise-grade Regulatory Technology pipeline engineered to ingest unstructured legal text, run contextual NLP relation extraction, and compile dependent compliance pathways into a queryable semantic Knowledge Graph.
+- **Scale & Tech**: Python, Deep NLP Architectures, Knowledge Graph Storage, PostgreSQL. Engineered for high-volume cross-referenced statutory frameworks.
+- **Security & Performance**: Isolated API endpoints backed by cryptographic token verification matrices. Multi-threaded graph querying ensuring sub-second inference mapping across nodes.
 
 📦 [Repository Link](#)
+</details>
 
+<details open>
+<summary><b>🤖 Chell Store Commerce Ecosystem & Automations</b></summary>
+<br />
+
+A robust, multi-product digital store infrastructure integrating Telegram bots, real-time analytics, and secure administrative backends.
+- **Scale & Tech**: Node.js, Express, React, Supabase, PostgreSQL RLS, Next.js.
+- **Security & Performance**: Dynamic product expiration, automated backup systems to Telegram channels, live traffic analytics, and rigid parameterized queries with Row Level Security blocking OWASP Injection risks.
+
+📦 [Repository Link](#)
+</details>
+
+<details>
+<summary><b>🔍 Pseudo-History Fallacy Detector</b></summary>
+<br />
+
+An advanced analytical dashboard integrating specialized NLP to detect logical fallacies and pseudo-historical claims.
+- **Tech Stack**: Next.js, Tailwind CSS, Python, IndoBERT NER, FAISS.
+- **Highlights**: Retrieval-Augmented Generation (RAG) architecture, composite scoring visualization, and data-driven objective frontend metrics handling specialized semantic outputs.
+
+📦 [Repository Link](#)
+</details>
+
+<details>
+<summary><b>🎓 Premium Class Attendance Information System</b></summary>
+<br />
+
+A full-stack, aesthetically premium attendance management system tailored for academic environments.
+- **Tech Stack**: Next.js 16, Prisma, SQLite, Vanilla CSS.
+- **Highlights**: Custom UI/UX, robust student/class management APIs, and seamless database schema integration optimized for rapid relational lookups.
+
+📦 [Repository Link](#)
 </details>
 
 <details>
 <summary><b>🤟 Real-Time Computer Vision Sign Language Detection System</b></summary>
 <br />
 
-### Project Description
 An edge computing vision interface tracking real-time hand gestures and mapping bounding-box coordinates to continuous contextual translations under localized environments.
-
-| Dimension | Technical Metrics & Implementation |
-| :--- | :--- |
-| **Stack** | Python, YOLOv8 Framework, OpenCV, Local GPU Toolchains (CUDA) |
-| **Scale** | Optimized high-frequency spatial tracking handling swift coordinate adjustments |
-| **Performance** | Low-latency inference iterations execution powered by localized matrix computation |
-| **Security** | Local closed-circuit pipeline keeping input metrics safe from outside access channels |
-| **Impact** | Breaks accessible human-computer operational barriers without needing cloud relays |
-
-### Professional Project Explanation
-The core implementation fine-tunes state-of-the-art YOLOv8 neural layers on highly nuanced feature sets. By optimizing threshold parameters and frame buffer cues, the application achieves high localization precision, mapping structural gesture variations straight into normalized text vectors securely.
+- **Tech Stack**: Python, YOLOv8 Framework, OpenCV, Local GPU Toolchains (CUDA).
+- **Highlights**: High-frequency spatial tracking handling swift coordinate adjustments. Local closed-circuit pipeline keeping input metrics safe from outside access channels.
 
 📦 [Repository Link](#)
-
-</details>
-
-<details>
-<summary><b>💼 Hardened Chell Store Commerce Ecosystem</b></summary>
-<br />
-
-### Project Description
-A data-consistent digital application executing programmatic reseller routing rules, transaction isolation, and secure content delivery.
-
-| Dimension | Technical Metrics & Implementation |
-| :--- | :--- |
-| **Stack** | Node.js, Express, React, Supabase, PostgreSQL RLS, Cloud Proxies |
-| **Scale** | Multi-tiered reseller infrastructure maintaining strict relational data isolation |
-| **Performance** | Indexed catalog queries executing instant response payloads to distributed endpoints |
-| **Security** | Rigid parameterized queries and Row Level Security blocking OWASP Injection risks |
-| **Impact** | Eliminates manual bookkeeping errors via rule-enforced programmatic transaction flows |
-
-### Professional Project Explanation
-This storefront focuses heavily on programmatic security. By configuring fine-grained PostgreSQL database policy permissions, it ensures that dynamic data states can only be manipulated via authorized, parameterized routines. The backend architecture deployed on cloud servers (Render) implements secure header validations to mitigate injection attempts completely.
-
-📦 [Repository Link](#)
-
 </details>
 
 ---
 
-## 6. Experience Section
+## 💼 Professional Experience
 
 ### Senior Project NLP Researcher
 **Satya Wacana Christian University** | *April 2026 — Present*
 * Designed the ingestion pipeline of the Automated Regulatory Ripple-Effect Synthesizer using structural tokenization under academic mentorship.
 * Configured local computing clusters with NVIDIA hardware acceleration to run parallelized neural model training and graph schema evaluations.
 * Established scalable analytical models mapping relationships from legal documents onto relational storage systems.
+
 `Data-Science` `Natural-Language-Processing` `Knowledge-Graphs` `CUDA` `PostgreSQL`
 
 ### Core Infrastructure Engineer
@@ -161,11 +142,12 @@ This storefront focuses heavily on programmatic security. By configuring fine-gr
 * Programmed the data persistence system and relational ruleset defining a distributed digital service framework.
 * Integrated strict access tokens and parameterized validation layers to defend user-facing apps against cross-site leakage or database compromises.
 * Built modular frontend interfaces optimized for data representation, structured logging, and transactional tracing.
+
 `Secure-Software-Development` `Supabase-RLS` `Node.js` `Express` `Next.js`
 
 ---
 
-## 7. Achievements Section
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
@@ -174,22 +156,17 @@ This storefront focuses heavily on programmatic security. By configuring fine-gr
 | **Tugas Talenta Unggul Track** | Formally nominated into the elite undergraduate research track for innovative algorithmic design in RegTech. |
 | **Arch Linux Customization Lab** | Built and optimized a private, automated Arch Linux compilation tailored for high-throughput computing and network security auditing. |
 
+<br />
+
+[![Academic Project Excellence](https://img.shields.io/badge/FTI_UKSW-Academic_Project_Excellence-4B0082?style=flat-square&logo=academia)](#)
+[![Intelligent Systems Track](https://img.shields.io/badge/FTI_UKSW-Intelligent_Systems_Track-7B68EE?style=flat-square&logo=cpu)](#)
+[![SQL Injection Practitioner](https://img.shields.io/badge/PortSwigger-SQL_Injection_Practitioner-8A2BE2?style=flat-square&logo=portswigger&logoColor=white)](#)
+
 </div>
 
 ---
 
-## 8. Certifications Section
-
-### 🌐 Satya Wacana Christian University (FTI)
-* [![Academic Project Excellence](https://img.shields.io/badge/FTI_UKSW-Academic_Project_Excellence-4B0082?style=flat-square&logo=academia)](#)
-* [![Intelligent Systems Track](https://img.shields.io/badge/FTI_UKSW-Intelligent_Systems_Track-7B68EE?style=flat-square&logo=cpu)](#)
-
-### 🛡️ PortSwigger Security Academy
-* [![SQL Injection Practitioner](https://img.shields.io/badge/PortSwigger-SQL_Injection_Practitioner-8A2BE2?style=flat-square&logo=portswigger&logoColor=white)](#)
-
----
-
-## 9. Coding Profiles & Security Platforms
+## 💻 Coding Profiles & Security Platforms
 
 <div align="center">
 
@@ -201,21 +178,22 @@ This storefront focuses heavily on programmatic security. By configuring fine-gr
 
 ---
 
-## 10. GitHub Analytics Section
+## 📊 GitHub Analytics
 
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=marchelladi&show_icons=true&theme=dark&hide_border=true&title_color=A970FF&icon_color=7B68EE&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="200" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=marchellprogit&show_icons=true&theme=tokyonight&hide_border=true&title_color=A970FF&icon_color=7B68EE&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="100%" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=marchelladi&theme=dark&hide_border=true&fire=A970FF&ring=7B68EE&title=A970FF&text=ffffff&background=0d1117" alt="GitHub Streak" height="200" />
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=marchellprogit&theme=tokyonight&hide_border=true&fire=A970FF&ring=7B68EE&title=A970FF&text=ffffff&background=0d1117" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchelladi&layout=compact&theme=dark&hide_border=true&title_color=A970FF&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" height="180" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchellprogit&layout=compact&theme=tokyonight&hide_border=true&title_color=A970FF&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" width="60%" />
       </td>
     </tr>
   </table>
@@ -223,39 +201,28 @@ This storefront focuses heavily on programmatic security. By configuring fine-gr
 
 ---
 
-## 11. GitHub Trophies Section
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marchelladi&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=marchellprogit&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 12. Contribution Activity Section
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marchelladi&bg_color=0d1117&color=A970FF&line=7B68EE&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marchellprogit&bg_color=0d1117&color=A970FF&line=7B68EE&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 13. Contribution Snake Section
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marchelladi/marchelladi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marchellprogit/marchellprogit/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marchellprogit/marchellprogit/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marchellprogit/marchellprogit/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
-
----
-
-## 14. Current Focus Section
-
-```yaml
-Learning:
-  - Complex Entity Recognition (NER) Tokenization Sets
-  - Advanced WPA3 Enterprise Cryptographic Vectors
-Building:
-  - Automated Regulatory Ripple-Effect Synthesizer Core v2
-Exploring:
-  - PostgreSQL Row Level Security (RLS) Database Hardening
-Open To:
-  - Enterprise Data Engineering & Penetration Audits Contracts

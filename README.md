@@ -55,6 +55,8 @@ I am an Information Technology undergraduate at **Satya Wacana Christian Univers
 
 ---
 
+---
+
 ## 🛠️ Technology Stack & Tools
 
 <div align="center">
@@ -64,7 +66,7 @@ I am an Information Technology undergraduate at **Satya Wacana Christian Univers
       <td align="center" style="border: none;"><b>Frontend Engineering</b></td>
     </tr>
     <tr>
-      <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,jupyter,r" alt="Data Science" /></td>
+      <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,r" alt="Data Science" /></td>
       <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,css" alt="Frontend" /></td>
     </tr>
     <tr>
@@ -79,6 +81,7 @@ I am an Information Technology undergraduate at **Satya Wacana Christian Univers
 </div>
 
 ---
+
 
 ## 🚀 Featured Engineering & AI Projects
 

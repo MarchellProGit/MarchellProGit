@@ -1,10 +1,10 @@
 <div align="center">
   <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0d1117&height=250&section=header&text=Marchell%20Adi%20Pratama&fontSize=50&fontColor=00F0FF&animation=twinkling&desc=Full-Stack%20Web3%20and%20AI%20Engineer&descAlignY=70&descAlign=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Marchell%20Adi%20Pratama&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Web3%20and%20AI%20Engineer&descAlignY=70&descAlign=62" width="100%" alt="Header Banner" />
   
   <!-- "SOLA DEI GLORIA" ANIMATED QUOTE -->
   <a href="https://github.com/MarchellProGit">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=SOLA+DEI+GLORIA;TRANSLATING+LOGIC+INTO+CODE;BUILDING+THE+FUTURE+OF+WEB3" alt="Sola Dei Gloria" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=SOLA+DEI+GLORIA;TRANSLATING+LOGIC+INTO+CODE;BUILDING+THE+FUTURE+OF+WEB3;ARCHITECTING+ZERO-TRUST+SYSTEMS;ENGINEERING+ENTERPRISE+PIPELINES;OPTIMIZING+DECENTRALIZED+NETWORKS;LEVERAGING+AI+AND+KNOWLEDGE+GRAPHS;HARDENING+BACKEND+INFRASTRUCTURE;DEPLOYING+SCALABLE+SOLUTIONS;CRAFTING+PREMIUM+INTERFACES" alt="Sola Dei Gloria" />
   </a>
   <br />
   
@@ -24,20 +24,20 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 👨‍💻 Architecture & Philosophy
+## [ // ARCHITECTURE & PHILOSOPHY ]
 
 > *"Balancing data-driven AI optimization with hardened backend integration and zero-trust security parameters."*
 
 I am a **Professional Software Architect and Engineer**, specializing in the intersection of **Web3 Development, Data Science, and Secure Software Architecture**. My core engineering focus lies in resolving complex architectural bottlenecks through decentralized smart contracts, local GPU computing, and hardened asynchronous ecosystems.
 
-* 🌐 **Web3 & Blockchain:** Specialization in Ethereum smart contract deployment (Solidity, Foundry/Anvil) and integrating premium glassmorphism interfaces with decentralized backends.
-* 🧠 **AI & Data Science:** Expertise in NLP pipelines, real-time computer vision (YOLOv8), and semantic Knowledge Graphs for advanced data synthethis.
-* 💻 **Software Engineering:** Architecture-first approach utilizing Next.js, robust Node.js/Express patterns, and automated testing/deployment workflows (Selenium).
-* 🔐 **Cyber Security:** Active analysis of cryptographic handshakes, zero-trust API boundary enforcement, and bypassing bot-detection through automated heuristics.
+* **[ WEB3 & BLOCKCHAIN ]:** Specialization in Ethereum smart contract deployment (Solidity, Foundry/Anvil) and integrating premium glassmorphism interfaces with decentralized backends.
+* **[ AI & DATA SCIENCE ]:** Expertise in NLP pipelines, real-time computer vision (YOLOv8), and semantic Knowledge Graphs for advanced data synthethis.
+* **[ SOFTWARE ENGINEERING ]:** Architecture-first approach utilizing Next.js, robust Node.js/Express patterns, and automated testing/deployment workflows (Selenium).
+* **[ CYBER SECURITY ]:** Active analysis of cryptographic handshakes, zero-trust API boundary enforcement, and bypassing bot-detection through automated heuristics.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 📊 Deep Analytics Dashboard
+## [ // DEEP ANALYTICS DASHBOARD ]
 
 <div align="center">
   <table border="0" style="border: none; background: transparent;">
@@ -50,11 +50,9 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0d1117&quote_color=00F0FF&author_color=0080FF" alt="Quote" width="100%" />
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarchellProGit&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" width="100%" />
+      <td colspan="2" align="center" style="border: none;">
+        <br/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarchellProGit&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" width="60%" />
       </td>
     </tr>
   </table>
@@ -62,21 +60,21 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🛠️ Technology Arsenal
+## [ // TECHNOLOGY ARSENAL ]
 
 <div align="center">
   <table border="0" style="border: none; background: transparent;">
     <tr>
-      <td align="center" style="border: none;"><b>Web3 & Smart Contracts</b></td>
-      <td align="center" style="border: none;"><b>Data Science & AI/ML</b></td>
+      <td align="center" style="border: none;"><b>[ WEB3 & SMART CONTRACTS ]</b></td>
+      <td align="center" style="border: none;"><b>[ DATA SCIENCE & AI/ML ]</b></td>
     </tr>
     <tr>
       <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=solidity,rust,vite,react" alt="Web3" /></td>
       <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,r" alt="Data Science" /></td>
     </tr>
     <tr>
-      <td align="center" style="border: none;"><br><b>Backend & Databases</b></td>
-      <td align="center" style="border: none;"><br><b>DevOps & Security</b></td>
+      <td align="center" style="border: none;"><br><b>[ BACKEND & DATABASES ]</b></td>
+      <td align="center" style="border: none;"><br><b>[ DEVOPS & SECURITY ]</b></td>
     </tr>
     <tr>
       <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,supabase,sqlite" alt="Backend" /></td>
@@ -87,13 +85,13 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🚀 Enterprise Engineering Projects
+## [ // ENTERPRISE ENGINEERING PROJECTS ]
 
 <table border="0" style="border: none; background: transparent;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
       <blockquote>
-        <h3>💠 NexusDAO Platform</h3>
+        <h3>[::] NexusDAO Platform</h3>
         <p>A Web3 academic platform with a premium aurora-themed glassmorphism interface, powered by Solidity smart contracts deployed via Anvil/Forge.</p>
         <p>
           <kbd>Solidity</kbd> <kbd>Ethereum</kbd> <kbd>Vite</kbd>
@@ -102,7 +100,7 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
     </td>
     <td width="50%" valign="top" style="border: none;">
       <blockquote>
-        <h3>🤖 Chell Store Ecosystem</h3>
+        <h3>[::] Chell Store Ecosystem</h3>
         <p>A multi-product digital store infrastructure integrating Telegram bots, live analytics, and highly-secured administrative Supabase backends.</p>
         <p>
           <kbd>Node.js</kbd> <kbd>Next.js</kbd> <kbd>Supabase RLS</kbd>
@@ -113,7 +111,7 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
   <tr>
     <td width="50%" valign="top" style="border: none;">
       <blockquote>
-        <h3>🛠️ ChellTools Suite</h3>
+        <h3>[::] ChellTools Suite</h3>
         <p>A finalized production-ready suite of security and management CLI tools featuring HWID-locked device verification and secure build environments.</p>
         <p>
           <kbd>Python</kbd> <kbd>CLI</kbd> <kbd>Cryptography</kbd>
@@ -122,7 +120,7 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
     </td>
     <td width="50%" valign="top" style="border: none;">
       <blockquote>
-        <h3>🍃 EcoGuard Analytics</h3>
+        <h3>[::] EcoGuard Analytics</h3>
         <p>An academically rigorous Air Quality Early Warning System deploying real-time data science models via Streamlit Community Cloud.</p>
         <p>
           <kbd>Python</kbd> <kbd>Streamlit</kbd> <kbd>Data Science</kbd>
@@ -133,7 +131,7 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
   <tr>
     <td width="50%" valign="top" style="border: none;">
       <blockquote>
-        <h3>🎭 Netflix Registration Auto</h3>
+        <h3>[::] Netflix Registration Auto</h3>
         <p>A production-ready CLI tool for automated service registration featuring sophisticated anti-detection and native Selenium interactions.</p>
         <p>
           <kbd>Selenium</kbd> <kbd>Automation</kbd> <kbd>Python</kbd>
@@ -142,7 +140,7 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
     </td>
     <td width="50%" valign="top" style="border: none;">
       <blockquote>
-        <h3>⚖️ RegTech Synthesizer</h3>
+        <h3>[::] RegTech Synthesizer</h3>
         <p>An enterprise-grade Regulatory pipeline engineered to ingest legal text and compile it into a queryable semantic Knowledge Graph.</p>
         <p>
           <kbd>NLP</kbd> <kbd>PostgreSQL</kbd> <kbd>FAISS</kbd>
@@ -154,15 +152,15 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 💼 Core Infrastructure Experience
+## [ // CORE INFRASTRUCTURE EXPERIENCE ]
 
-### 🔬 Lead NLP Research Engineer
+### [x] Lead NLP Research Engineer
 **Enterprise Architecture & Pipeline Research** | *April 2026 — Present*
 * Designed the ingestion pipeline of the Automated Regulatory Ripple-Effect Synthesizer using structural tokenization.
 * Configured local computing clusters with NVIDIA hardware acceleration to run parallelized neural model training.
 > <kbd>Data-Science</kbd> <kbd>NLP</kbd> <kbd>Knowledge-Graphs</kbd> <kbd>CUDA</kbd>
 
-### ⚙️ Core Infrastructure & Web3 Engineer
+### [x] Core Infrastructure & Web3 Engineer
 **Nexus & Chell Development** | *May 2026 — Present*
 * Engineered the decentralized NexusDAO platform with comprehensive smart contract testing on WSL (Forge/Anvil).
 * Programmed the data persistence system and relational ruleset defining a distributed digital service framework for Chell Store.
@@ -171,7 +169,7 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 📈 Activity & Automations
+## [ // ACTIVITY & AUTOMATIONS ]
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarchellProGit&bg_color=0d1117&color=00F0FF&line=0080FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />

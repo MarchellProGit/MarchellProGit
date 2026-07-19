@@ -51,7 +51,7 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
     </tr>
     <tr>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarchellProGit&theme=tokyonight" alt="Profile Details" width="100%" />
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0d1117&quote_color=00F0FF&author_color=0080FF" alt="Quote" width="100%" />
       </td>
       <td width="50%" align="center" style="border: none;">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarchellProGit&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" width="100%" />

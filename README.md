@@ -1,6 +1,6 @@
 <div align="center">
   <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=00F0FF,0080FF,000000&height=250&section=header&text=Marchell%20Adi%20Pratama&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Web3%20and%20AI%20Engineer&descAlignY=70&descAlign=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0d1117&height=250&section=header&text=Marchell%20Adi%20Pratama&fontSize=50&fontColor=00F0FF&animation=twinkling&desc=Full-Stack%20Web3%20and%20AI%20Engineer&descAlignY=70&descAlign=62" width="100%" alt="Header Banner" />
   
   <br /><br />
   
@@ -166,27 +166,7 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
 * Integrated strict access tokens, HWID verification for CLI tools, and parameterized validation layers to defend against injection risks.
 > <kbd>Web3</kbd> <kbd>Solidity</kbd> <kbd>Supabase-RLS</kbd> <kbd>Next.js</kbd>
 
----
 
-## 🏆 Certifications & Security Platforms
-
-<div align="center">
-  
-  **Professional Certifications & Badges**<br>
-  <a href="#"><img src="https://img.shields.io/badge/Enterprise-Software_Architecture-003366?style=for-the-badge&logo=cplusplus" alt="Academic"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Certified-Intelligent_Systems-0080FF?style=for-the-badge&logo=cpu" alt="Intelligent"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PortSwigger-SQL_Injection-00F0FF?style=for-the-badge&logo=portswigger&logoColor=white" alt="SQL"></a>
-  
-  <br><br>
-
-  **Hack & Code Profiles**<br>
-  <a href="#"><img src="https://img.shields.io/badge/TryHackMe-Profile-990000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM"></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackTheBox-Profile-111925?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HTB"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-
-</div>
-
----
 
 ## 📈 Contribution Graph & Automations
 

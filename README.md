@@ -1,24 +1,24 @@
 <div align="center">
   <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=8A2BE2,4B0082,000000&height=250&section=header&text=Marchell%20Adi%20Pratama&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Web3%20and%20AI%20Engineer&descAlignY=70&descAlign=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=00F0FF,0080FF,000000&height=250&section=header&text=Marchell%20Adi%20Pratama&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Web3%20and%20AI%20Engineer&descAlignY=70&descAlign=62" width="100%" alt="Header Banner" />
   
   <br /><br />
   
   <!-- TYPING TITLE -->
   <a href="https://github.com/MarchellProGit">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web3+Engineer;Data+Scientist+%7C+NLP;Secure+Software+Architect;Cyber+Security+Researcher" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web3+Engineer;Data+Scientist+%7C+NLP;Secure+Software+Architect;Cyber+Security+Researcher" alt="Typing Animation" />
   </a>
 
   <!-- QUICK BADGES -->
   <p align="center">
-    <a href="https://maps.google.com"><img src="https://img.shields.io/badge/Central_Java%2C_Indonesia-7B68EE?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+    <a href="https://maps.google.com"><img src="https://img.shields.io/badge/Central_Java%2C_Indonesia-0080FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
     <a href="https://www.linkedin.com/in/marchell-adi-pratama-407523247"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 
   <p align="center">
-    <a href="https://github.com/MarchellProGit"><img src="https://komarev.com/ghpvc/?username=MarchellProGit&color=7B68EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-    <a href="https://github.com/MarchellProGit?tab=followers"><img src="https://img.shields.io/github/followers/MarchellProGit?label=FOLLOWERS&style=flat-square&color=4B0082" alt="Followers" /></a>
-    <a href="https://github.com/MarchellProGit"><img src="https://img.shields.io/github/stars/MarchellProGit?label=STARS&style=flat-square&color=8A2BE2" alt="Stars" /></a>
+    <a href="https://github.com/MarchellProGit"><img src="https://komarev.com/ghpvc/?username=MarchellProGit&color=0080FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+    <a href="https://github.com/MarchellProGit?tab=followers"><img src="https://img.shields.io/github/followers/MarchellProGit?label=FOLLOWERS&style=flat-square&color=003366" alt="Followers" /></a>
+    <a href="https://github.com/MarchellProGit"><img src="https://img.shields.io/github/stars/MarchellProGit?label=STARS&style=flat-square&color=00F0FF" alt="Stars" /></a>
   </p>
 
   <br />
@@ -27,16 +27,16 @@
   <table border="0" style="border: none; background: transparent;">
     <tr>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MarchellProGit&show_icons=true&theme=tokyonight&hide_border=true&title_color=A970FF&icon_color=7B68EE&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MarchellProGit&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=0080FF&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarchellProGit&theme=tokyonight&hide_border=true&fire=A970FF&ring=7B68EE&title=A970FF&text=ffffff&background=0d1117" alt="GitHub Streak" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarchellProGit&theme=tokyonight&hide_border=true&fire=00F0FF&ring=0080FF&title=00F0FF&text=ffffff&background=0d1117" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="border: none;">
         <br/>
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarchellProGit&layout=compact&theme=tokyonight&hide_border=true&title_color=A970FF&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" width="60%" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarchellProGit&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" width="60%" />
       </td>
     </tr>
   </table>
@@ -173,9 +173,9 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
 <div align="center">
   
   **Professional Certifications & Badges**<br>
-  <a href="#"><img src="https://img.shields.io/badge/Enterprise-Software_Architecture-4B0082?style=for-the-badge&logo=cplusplus" alt="Academic"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Certified-Intelligent_Systems-7B68EE?style=for-the-badge&logo=cpu" alt="Intelligent"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PortSwigger-SQL_Injection-8A2BE2?style=for-the-badge&logo=portswigger&logoColor=white" alt="SQL"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Enterprise-Software_Architecture-003366?style=for-the-badge&logo=cplusplus" alt="Academic"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Certified-Intelligent_Systems-0080FF?style=for-the-badge&logo=cpu" alt="Intelligent"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PortSwigger-SQL_Injection-00F0FF?style=for-the-badge&logo=portswigger&logoColor=white" alt="SQL"></a>
   
   <br><br>
 
@@ -191,7 +191,7 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
 ## 📈 Contribution Graph & Automations
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarchellProGit&bg_color=0d1117&color=A970FF&line=7B68EE&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarchellProGit&bg_color=0d1117&color=00F0FF&line=0080FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 <br />

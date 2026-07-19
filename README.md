@@ -68,7 +68,7 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
       <td align="center" style="border: none;"><b>Data Science & AI/ML</b></td>
     </tr>
     <tr>
-      <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=solidity,ethereum,vite,react" alt="Web3" /></td>
+      <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=solidity,rust,vite,react" alt="Web3" /></td>
       <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,r" alt="Data Science" /></td>
     </tr>
     <tr>
@@ -166,7 +166,15 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
 * Integrated strict access tokens, HWID verification for CLI tools, and parameterized validation layers to defend against injection risks.
 > <kbd>Web3</kbd> <kbd>Solidity</kbd> <kbd>Supabase-RLS</kbd> <kbd>Next.js</kbd>
 
+---
 
+## ⚡ Core Philosophy & Mindset
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0d1117&quote_color=00F0FF&author_color=0080FF" alt="Quote" />
+</div>
+
+---
 
 ## 📈 Contribution Graph & Automations
 

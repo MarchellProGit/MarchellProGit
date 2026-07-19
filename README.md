@@ -1,6 +1,6 @@
 <div align="center">
   <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,000000&height=250&section=header&text=Marchell%20Adi%20Pratama&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Web3%20%26%20AI%20Engineer&descAlignY=70&descAlign=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=8A2BE2,4B0082,000000&height=250&section=header&text=Marchell%20Adi%20Pratama&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Web3%20and%20AI%20Engineer&descAlignY=70&descAlign=62" width="100%" alt="Header Banner" />
   
   <br /><br />
   
@@ -27,7 +27,7 @@
   <table border="0" style="border: none; background: transparent;">
     <tr>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=MarchellProGit&show_icons=true&theme=tokyonight&hide_border=true&title_color=A970FF&icon_color=7B68EE&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MarchellProGit&show_icons=true&theme=tokyonight&hide_border=true&title_color=A970FF&icon_color=7B68EE&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%" align="center" style="border: none;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarchellProGit&theme=tokyonight&hide_border=true&fire=A970FF&ring=7B68EE&title=A970FF&text=ffffff&background=0d1117" alt="GitHub Streak" width="100%" />
@@ -36,7 +36,7 @@
     <tr>
       <td colspan="2" align="center" style="border: none;">
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarchellProGit&layout=compact&theme=tokyonight&hide_border=true&title_color=A970FF&text_color=ffffff&bg_color=0d1117&langs_count=6&cache_seconds=86400" alt="Top Languages" width="60%" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarchellProGit&layout=compact&theme=tokyonight&hide_border=true&title_color=A970FF&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" width="60%" />
       </td>
     </tr>
   </table>

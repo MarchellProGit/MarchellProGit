@@ -2,17 +2,17 @@
   <!-- HEADER BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0d1117&height=250&section=header&text=Marchell%20Adi%20Pratama&fontSize=50&fontColor=00F0FF&animation=twinkling&desc=Full-Stack%20Web3%20and%20AI%20Engineer&descAlignY=70&descAlign=62" width="100%" alt="Header Banner" />
   
-  <br /><br />
-  
-  <!-- TYPING TITLE -->
+  <!-- "SOLA DEI GLORIA" ANIMATED QUOTE -->
   <a href="https://github.com/MarchellProGit">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web3+Engineer;Data+Scientist+%7C+NLP;Secure+Software+Architect;Cyber+Security+Researcher" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=SOLA+DEI+GLORIA;TRANSLATING+LOGIC+INTO+CODE;BUILDING+THE+FUTURE+OF+WEB3" alt="Sola Dei Gloria" />
   </a>
-
+  <br />
+  
   <!-- QUICK BADGES -->
   <p align="center">
     <a href="https://maps.google.com"><img src="https://img.shields.io/badge/Central_Java%2C_Indonesia-0080FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
     <a href="https://www.linkedin.com/in/marchell-adi-pratama-407523247"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:marchelladipratama05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
   </p>
 
   <p align="center">
@@ -20,31 +20,9 @@
     <a href="https://github.com/MarchellProGit?tab=followers"><img src="https://img.shields.io/github/followers/MarchellProGit?label=FOLLOWERS&style=flat-square&color=003366" alt="Followers" /></a>
     <a href="https://github.com/MarchellProGit"><img src="https://img.shields.io/github/stars/MarchellProGit?label=STARS&style=flat-square&color=00F0FF" alt="Stars" /></a>
   </p>
-
-  <br />
-
-  <!-- GITHUB DASHBOARD ANALYTICS -->
-  <table border="0" style="border: none; background: transparent;">
-    <tr>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MarchellProGit&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=0080FF&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarchellProGit&theme=tokyonight&hide_border=true&fire=00F0FF&ring=0080FF&title=00F0FF&text=ffffff&background=0d1117" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="border: none;">
-        <br/>
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarchellProGit&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" width="60%" />
-      </td>
-    </tr>
-  </table>
 </div>
 
-<br />
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ## 👨‍💻 Architecture & Philosophy
 
@@ -57,9 +35,34 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
 * 💻 **Software Engineering:** Architecture-first approach utilizing Next.js, robust Node.js/Express patterns, and automated testing/deployment workflows (Selenium).
 * 🔐 **Cyber Security:** Active analysis of cryptographic handshakes, zero-trust API boundary enforcement, and bypassing bot-detection through automated heuristics.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🛠️ Technology Stack & Weapons
+## 📊 Deep Analytics Dashboard
+
+<div align="center">
+  <table border="0" style="border: none; background: transparent;">
+    <tr>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MarchellProGit&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=0080FF&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarchellProGit&theme=tokyonight&hide_border=true&fire=00F0FF&ring=0080FF&title=00F0FF&text=ffffff&background=0d1117" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarchellProGit&theme=tokyonight" alt="Profile Details" width="100%" />
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarchellProGit&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+## 🛠️ Technology Arsenal
 
 <div align="center">
   <table border="0" style="border: none; background: transparent;">
@@ -82,9 +85,9 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
   </table>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🚀 Featured Engineering Projects
+## 🚀 Enterprise Engineering Projects
 
 <table border="0" style="border: none; background: transparent;">
   <tr>
@@ -149,9 +152,9 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
   </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 💼 Professional Experience
+## 💼 Core Infrastructure Experience
 
 ### 🔬 Lead NLP Research Engineer
 **Enterprise Architecture & Pipeline Research** | *April 2026 — Present*
@@ -166,17 +169,9 @@ I am a **Professional Software Architect and Engineer**, specializing in the int
 * Integrated strict access tokens, HWID verification for CLI tools, and parameterized validation layers to defend against injection risks.
 > <kbd>Web3</kbd> <kbd>Solidity</kbd> <kbd>Supabase-RLS</kbd> <kbd>Next.js</kbd>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## ⚡ Core Philosophy & Mindset
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0d1117&quote_color=00F0FF&author_color=0080FF" alt="Quote" />
-</div>
-
----
-
-## 📈 Contribution Graph & Automations
+## 📈 Activity & Automations
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarchellProGit&bg_color=0d1117&color=00F0FF&line=0080FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
